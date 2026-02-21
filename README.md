@@ -10,8 +10,8 @@
   </a>
 </p>
 <p align="center">
-  - 🌱 I’m currently learning <b>Java, HTML, CSS, JS</b> <br>
-  - 📫 How to reach me <a href="mailto:kokiladewmini527@gmail.com"><b>kokiladewmini527@gmail.com</b></a>
+  🌱 I’m currently learning <b>Java, HTML, CSS, JS</b> <br>
+  📫 How to reach me <a href="mailto:kokiladewmini527@gmail.com"><b>kokiladewmini527@gmail.com</b></a>
 </p>
 
 <p align="left">
