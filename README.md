@@ -20,6 +20,9 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://kokiladev.github.io/My_Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/kokila-dewmini-799871318/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
