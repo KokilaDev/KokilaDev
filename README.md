@@ -10,6 +10,10 @@
     🌱 I’m currently learning Java, HTML, CSS, JS
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KokilaDev&color=blue&style=flat-square" alt="Profile Views">
+</p>
+
 <!-- Social Links -->
 <p align='center'>
   <a href="https://www.facebook.com/kokila.dewmini.2025">
